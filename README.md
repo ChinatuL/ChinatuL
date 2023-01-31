@@ -55,7 +55,16 @@
 <a href="mailto:chinatuluciaeke@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
-
+  
+## Github Stats
+<p align="center">
+  <a href="https://github.com/ChinatuL">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=chinatul&hide=stars&count_private=true&show_icons=true&theme=radical&hide_border=true">
+  </a>
+  <a href="https://github.com/ChinatuL/github-readme-stats">
+    <img width="430" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinatul&layout=compact&theme=radical&langs_count=6&hide_border=true" />
+  </a>
+ </p>  
 <!--
 **ChinatuL/ChinatuL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
