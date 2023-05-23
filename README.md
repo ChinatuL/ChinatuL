@@ -61,13 +61,15 @@
   <a href="https://github.com/ChinatuL">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=chinatul&count_private=true&show_icons=true&theme=radical&hide_border=true">
   </a>
-  <a href="https://github.com/ChinatuL/github-readme-stats">
+ </p>  
+ <p align="center"><a href="https://github.com/ChinatuL/github-readme-stats">
     <img width="430" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinatul&layout=compact&theme=radical&langs_count=6&hide_border=true" />
-  </a>
+  </a></p>
+ <p align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=ChinatuL&theme=radical&hide_border=true&card_width=430&type=png)](https://git.io/streak-stats)
   
- </p>  
+</p>
 <!--
 **ChinatuL/ChinatuL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
