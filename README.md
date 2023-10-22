@@ -12,10 +12,10 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on **a JavaScript Project**
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
+- 🔭 I’m currently working on a couple of **React.js** projects
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React.js**
 - 🌱 I’m currently learning **ReactJs and Open source**
-- 👯 I’m looking to collaborate on **any open source projects using HTML, CSS, Javascript**
+- 👯 I’m looking to collaborate on **any open source projects using HTML, CSS, Javascript, React**
 
 ## Languages and Tools:
 
@@ -40,6 +40,9 @@
   </a>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" />
+  </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="400 width="40 />
   </a>
 </p>
 
