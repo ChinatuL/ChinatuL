@@ -13,7 +13,7 @@
 ## About Me:
 
 - 🔭 I’m currently working on a couple of **Next.js** projects
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React.js**
+- 💬 Ask me about **JavaScript**.
 - 🌱 I’m currently learning **Next.js and TypeScript**
 - 👯 I’m looking to collaborate on **any open source projects using HTML, CSS, Javascript, React**
 
