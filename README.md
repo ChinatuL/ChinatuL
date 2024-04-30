@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on a couple of **Next.js** projects
 - 💬 Ask me about **JavaScript**.
 - 🌱 I’m currently learning **Next.js and TypeScript**
-- 👯 I’m looking to collaborate on **any open source projects using HTML, CSS, Javascript, React**
+- 👯 I’m looking to collaborate on **any open source projects using React**
 
 ## Languages and Tools:
 
@@ -29,20 +29,26 @@
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
   </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40"/>
+  </a>
   <a href="#">
     <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="40" />
   </a>
   <a href="#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
   </a>
-  <a href="#">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
-  </a>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="40" />
   </a>
   <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40 width="40 />
+  </a>
+  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40 width="40 />
+  </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40 width="40/>
   </a>
 </p>
 
